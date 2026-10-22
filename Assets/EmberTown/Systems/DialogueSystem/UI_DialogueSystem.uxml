@@ -1,0 +1,13 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="DialogueContainer" style="flex-grow: 1;">
+        <ui:Image name="SpeakerNameBox" style="bottom: 0; position: absolute; height: 60px; width: 1500px; left: 530px; background-image: url(&quot;project://database/Assets/Thirdparty/Ciathyza/Gridbox%20Prototype%20Materials/Textures/prototype_512x512_grey1.png?fileID=2800000&amp;guid=dd29f35641da38647a1eeb1028211f1a&amp;type=3#prototype_512x512_grey1&quot;); background-size: 100% 100%; background-repeat: no-repeat no-repeat; flex-direction: column; top: 953px; right: 0;">
+            <ui:Label text="Speaker Name" name="SpeakerName" style="margin-left: 46px; align-items: auto; margin-top: 4px; -unity-font-style: bold; font-size: 40px; margin-bottom: 0;"/>
+        </ui:Image>
+        <ui:Image name="DialogueBox" style="bottom: 36px; position: absolute; height: 390px; width: 1500px; left: 530px; background-image: url(&quot;project://database/Assets/Thirdparty/Ciathyza/Gridbox%20Prototype%20Materials/Textures/prototype_512x512_grey1.png?fileID=2800000&amp;guid=dd29f35641da38647a1eeb1028211f1a&amp;type=3#prototype_512x512_grey1&quot;); background-size: 100% 100%; background-repeat: no-repeat no-repeat; font-size: 14px;">
+            <ui:Label text="Sample Dialogue Text" name="Dialogue" style="margin-right: 18px; margin-left: 43px; margin-top: 30px; font-size: 44px;"/>
+        </ui:Image>
+        <ui:Image name="Speaker1" style="left: 0; position: absolute; height: 737px; top: initial; width: 484px; bottom: 0; background-image: url(&quot;project://database/Assets/Thirdparty/Ciathyza/Gridbox%20Prototype%20Materials/Textures/prototype_512x512_red.png?fileID=2800000&amp;guid=3d6064e2e1cd7214e9f67f3a68f494fb&amp;type=3#prototype_512x512_red&quot;);"/>
+        <ui:Image name="Speaker2" style="left: auto; position: absolute; height: 737px; top: initial; width: 484px; bottom: 0; right: 0; background-image: url(&quot;project://database/Assets/Thirdparty/Ciathyza/Gridbox%20Prototype%20Materials/Template/prototype_texture_512x512.psd?fileID=2800000&amp;guid=3fe239e19d10e284cb9bb5a748ecb82e&amp;type=3#prototype_texture_512x512&quot;);"/>
+        <ui:VisualElement name="ChoicesContainer" style="flex-grow: 1; opacity: 1; left: 1513px; margin-top: 0; position: absolute; top: 737px; height: 206px; width: 522px; align-content: auto; justify-content: center;"/>
+    </ui:VisualElement>
+</ui:UXML>

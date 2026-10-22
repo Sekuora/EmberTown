@@ -1,0 +1,5 @@
+False
+Assets/EmberTown/Clothes/Top/Blouse/001/Prefab_Top_Blouse_001.prefab	3	Assets/EmberTown/Clothes/Top/Blouse/001/M_Clothes_Blouse_001_Secondary.mat|Assets/EmberTown/Clothes/Top/Blouse/001/Material_Toon_Blouse_001_Ruffles.mat|Assets/EmberTown/Clothes/Top/Blouse/001/M_Clothes_Blouse_001_Base 1.mat
+Assets/EmberTown/Clothes/Bottom/Skirt/001/Prefab_Bottom_Skirt_001.prefab	2	Assets/EmberTown/Clothes/Bottom/Skirt/001/Clothes_Fabric_Strips.002.mat|Assets/EmberTown/Clothes/Bottom/Skirt/001/Clothes_Fabric_Strips.005.mat
+Assets/EmberTown/Clothes/Base/Prefab_Base_Underwear_Bra_001.prefab	1	Assets/EmberTown/Clothes/Base/Toon_Base_Clothes.001.mat
+Assets/EmberTown/Clothes/Base/Prefab_Base_Underwear_Boxer_001.prefab	1	Assets/EmberTown/Clothes/Base/Toon_Base_Clothes.001.mat
